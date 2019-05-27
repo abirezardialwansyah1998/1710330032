@@ -1,0 +1,21 @@
+* {
+	 	color: blue;
+	 }
+
+		h2{
+			font-family: sherif;
+			font-size: 40px;
+			font-style: italic;
+			color: red;
+			border: 2px solid yellow;
+			text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px blue
+
+		}
+
+		.biru {
+			color: blue;
+		}
+
+		.kuning {
+			color: yellow;
+		} 	
